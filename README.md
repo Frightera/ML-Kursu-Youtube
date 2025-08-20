@@ -2,6 +2,15 @@
 
 YouTube'da yayınlanan Makine Öğrenmesi Kursu'nun materyallerini içermektedir. 
 
+| Modül | Açıklama                                | Colab Linki |
+|-------|-----------------------------------------|-------------|
+| 01    | Giriş ve Proje Yaşam Döngüsü             | <a target="_blank" href="https://colab.research.google.com/github/Frightera/ML-Kursu-Youtube/blob/main/Notebooklar/ML_Modul01_Giris_ve_Proje_Yasam_Dongusu.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| 02    | Python ML Ekosistemi                     | <a target="_blank" href="https://colab.research.google.com/github/Frightera/ML-Kursu-Youtube/blob/main/Notebooklar/ML_Modul02_Python_ML_Ekosistemi.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| 03    | Ön İşleme ve Özellik Mühendisliği        | <a target="_blank" href="https://colab.research.google.com/github/Frightera/ML-Kursu-Youtube/blob/main/Notebooklar/ML_Modul03_OnIsleme_ve_Ozellik_Muhendisligi.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| 04    | Ön İşleme ve Feature Engineering (Sigorta Verisi) | <a target="_blank" href="https://colab.research.google.com/github/Frightera/ML-Kursu-Youtube/blob/main/Notebooklar/ML_Modul04_OnIsleme_ve_FE_SigortaVerisi.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| 05    | Sigorta Verisi Üzerinde Model Fit        | <a target="_blank" href="https://colab.research.google.com/github/Frightera/ML-Kursu-Youtube/blob/main/Notebooklar/ML_Modul05_SigortaVerisi_ModelFit.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+
+
 ## Kurs İçeriği
 
 5 ana modül mevcuttur (küçük bilgisel materyalleri hariç):
