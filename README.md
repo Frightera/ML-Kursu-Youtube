@@ -2,6 +2,11 @@
 
 YouTube'da yayınlanan Makine Öğrenmesi Kursu'nun materyallerini içermektedir. 
 
+Video: https://youtu.be/iLACR5cNeuw
+
+[![VideoKapakResmi](https://img.youtube.com/vi/iLACR5cNeuw/0.jpg)](https://www.youtube.com/watch?v=iLACR5cNeuw)
+
+
 | Modül | Açıklama                                | Colab Linki |
 |-------|-----------------------------------------|-------------|
 | 01    | Giriş ve Proje Yaşam Döngüsü             | <a target="_blank" href="https://colab.research.google.com/github/Frightera/ML-Kursu-Youtube/blob/main/Notebooklar/ML_Modul01_Giris_ve_Proje_Yasam_Dongusu.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
